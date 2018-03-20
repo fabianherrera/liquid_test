@@ -1,0 +1,4 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+BasicBench	Loop custom filters and tags list		50	2000000
+BasicBench	Loop list		100	1469000

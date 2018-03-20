@@ -23,3 +23,6 @@ erl_crash.dump
 liquid_test-*.tar
 
 /.idea/
+/.idea/workspace.xml
+
+mix.lock
