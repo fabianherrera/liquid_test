@@ -2,7 +2,7 @@ defmodule BasicBench do
   use Benchfella
   alias Liquid.{Template, Tag}
 
-  @list Enum.to_list(1..1000)
+  @list Enum.to_list(1..10000)
 
   defmodule MyFilter do
     def meaning_of_life(_), do: 42
